@@ -13,9 +13,10 @@ Input to the program will be:
 2. Number of passengers waiting in the queue.
 
  The given Example has been implemented in (airline.rb)
-Given - A 2D array that represents the columns and rows - [[3,2], [4,3], [2,3], [3,4]] (Please see the attached document - 'airline.rb')
+Given - A 2D array that represents the columns and rows - [[3,2], [4,3], [2,3], [3,4]] 
+(Please see the attached document - 'airline.rb' and input.txt)
 
-If there were 30 passengers from then the seating output will be as in the attachment 'Seating_Result.pdf'
+If there were 30 passengers from then the seating output will be as in the attachment 'result.rb'
 
 Below are the points to be noted:
 
